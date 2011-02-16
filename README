@@ -1,0 +1,20 @@
+This is a collaborative project to write a short book explaining how to use
+the Mizar32 computer, which runs eLua natively.
+
+The software:
+http://www.eluaproject.net
+
+The hardware:
+http://www.simplemachines.it -> Mizar32
+
+Book contents brainstorning wiki:
+http://tracker.eluaproject.net/projects/elua/wiki/EluaOnMizar32
+
+The book format follows the Lua Cookbook idea
+https://github.com/lua-cookbook
+
+Content will be initially edited on the wiki at
+http://wiki.eluaproject.net/eluaonmizar32book
+
+
+
